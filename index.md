@@ -1,46 +1,58 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Cape Town Clojure User Group
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+![Clojure](/assets/clojure-icon.gif "Clojure")
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+# Cape Town Clojure User Group
 
-## Update Author Attributes
+## What we're up to
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+We are currently building a trading card game named **Steel Plains**!
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+* [**Steel Plains on GitHub**](https://github.com/cape-town-clojure/steel-plains-tcg) - [**Steel Plains Wiki**](https://github.com/cape-town-clojure/steel-plains-tcg/wiki)
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+We are learning to use these technologies from the [**Clojure**](http://clojure.org/) ecosystem to build it:
 
-    $ rm -rf _posts/core-samples
+* [**Sente**](https://github.com/ptaoussanis/sente), a web-sockets library which can fall back to AJAX transparently. Provides server-side and client-side libraries.
+* [**Datomic**](http://www.datomic.com), an immutable database.
+* [**Om**](https://github.com/swannodette/om), an opinionated ClojureScript layer on top of Facebook's [**React.js**](http://facebook.github.io/react) library.
 
-Here's a sample "posts list".
+There is plenty to learn and do, here. Please feel free to join in! 
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+Just **contact any of the organisers below to get started**. We'd love to meet you!
 
-## To-Do
+---
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+## Contact Details
 
+We meet every second Thursday or so, at 6pm, at [{code}bridge](http://www.codebridge.co.za) in Claremont.
 
+We'll announce user group meeting dates and other interesting stuff at these places:
+
+* Follow us on [Twitter: @clj_ug_ct](https://twitter.com/clj_ug_ct)
+* Follow us on [Meetup.com](http://www.meetup.com/Cape-Town-Clojure-Meetup/)
+
+---
+
+## Group Organisers
+
+**Robert Stuttaford** - CTO at [Cognician](https://www.cognician.com)
+
+* [Github](https://github.com/robert-stuttaford)
+* [Twitter: @RobStuttaford](https://twitter.com/RobStuttaford)
+
+**Deon Moolman** - Senior Developer at [YuppieChef](https://www.yuppiechef.com)
+
+* [Github](https://github.com/cmdrdats) 
+* [Twitter: @cmdrdats](https://twitter.com/cmdrdats)
+
+---
+
+## Proudly sponsored by:
+
+[![Yuppie Chef](/assets/yc_logo.png "Yuppie Chef")](https://www.yuppiechef.com)
+
+[![Cognician](/assets/cognician-logo.svg "Cognician")](https://www.cognician.com)
