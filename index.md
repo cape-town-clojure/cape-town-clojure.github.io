@@ -34,6 +34,7 @@ We'll announce user group meeting dates and other interesting stuff at these pla
 
 * Follow us on [Twitter: @clj_ug_ct](https://twitter.com/clj_ug_ct)
 * Follow us on [Meetup.com](http://www.meetup.com/Cape-Town-Clojure-Meetup/)
+* Join us on IRC on irc.freenode.org in #clojure.za
 
 ---
 
